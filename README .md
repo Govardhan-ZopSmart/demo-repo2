@@ -1,2 +1,0 @@
-# PRACTICE 2
-HELLO
